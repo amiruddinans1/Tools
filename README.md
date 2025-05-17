@@ -1,3 +1,3 @@
 # Tools
-All your need
-Just watch and do as instructed
+All tools available here
+Just star it
