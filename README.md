@@ -19,3 +19,5 @@ Alternatively, you can use the following (this will be deprecated in the future)
 Open Command
 Type-     "    slmgr /xpr    "
 Hit Enter
+If it says " Windows in Notification Mode "
+Then you need to activate windows using above method.
