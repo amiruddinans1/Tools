@@ -17,5 +17,5 @@ Alternatively, you can use the following (this will be deprecated in the future)
 
 # Windows Activation Check Command
 Open Command
-Type-         slmgr /xpr
+Type-     "    slmgr /xpr    "
 Hit Enter
