@@ -14,3 +14,8 @@ Alternatively, you can use the following (this will be deprecated in the future)
 
 3. You will see the activation options. Choose the activation options highlighted in green.
 4. That's all
+
+# Windows Activation Check Command
+Open Command
+Type-         slmgr /xpr
+Hit Enter
