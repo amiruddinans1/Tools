@@ -21,3 +21,5 @@ Type-     "    slmgr /xpr    "
 Hit Enter
 If it says " Windows in Notification Mode "
 Then you need to activate windows using above method.
+If it says Windows is permanentaly activated then you need not to worry.
+Injoy the full version and activated version of Windows.
